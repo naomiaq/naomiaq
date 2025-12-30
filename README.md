@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Naomi!
-👩🏻‍💻 I am a Computer Science and Graphic Design student at West Chester University of Pennsylvania with interests in creating compelling technology and media for the user<br/>
+👩🏻‍💻 Interests in creating compelling technology and media for the user<br/>
+👩🏻‍🎓 Studying Computer Science and Graphic/Interactive Design at West Chester University of Pennsylvania<br/>
 💭 Currently building a client website with the Women in Computer Science Club of WCU<br/>
 
 
