@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Naomi!
 👩🏻‍💻 Interests in creating compelling technology and media for the user<br/>
 👩🏻‍🎓 Studying Computer Science and Graphic/Interactive Design at West Chester University of Pennsylvania<br/>
-💭 Currently building a client website with the Women in Computer Science Club of WCU<br/>
+💭 Currently building a website with the Women in Computer Science Club of WCU<br/>
 
 
 # 💻 Tech Stack
